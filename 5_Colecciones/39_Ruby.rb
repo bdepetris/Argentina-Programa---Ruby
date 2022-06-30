@@ -1,0 +1,1 @@
+jugar_a_timba = proc {|minutos| un_tiempo = TimbaElLeon.jugar!(minutos/60)}
